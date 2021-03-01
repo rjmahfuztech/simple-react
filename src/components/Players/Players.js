@@ -4,8 +4,8 @@ import data from '../../Data/Data.json';
 import './Players.css';
 import PlayerInfo from '../PlayerInfo/PlayerInfo';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 const Players = () => {
-    
     const [playerInfo, setPlayerInfo] = useState([]);
     const [addPlayer, setPlayer] = useState([]);
 
