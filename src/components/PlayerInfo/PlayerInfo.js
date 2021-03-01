@@ -21,7 +21,7 @@ const PlayerInfo = (props) => {
                         <p className="card-text">current Club: {current_club}</p>
                         <p className="card-text">Citizenship: {citizenship}</p>
                         <p className="card-text">Date of birth/Age:{date_of_birth_and_age}</p>
-                        <p className="card-text">Salary: {salary}</p>
+                        <p className="card-text">Salary: ${salary}</p>
                      </div>
                 </div>
             </div>

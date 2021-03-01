@@ -10,7 +10,7 @@ const Header = () => {
                 <img src={logo} alt=""/>
             </div>
             <div className="text-center ml-5">
-                <h1>2021 Argentina 16 Football <br/> Players Information</h1>
+                <h1>2021 Argentina Football <br/> Players Information</h1>
             </div>
         </div>
     );

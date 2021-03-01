@@ -10,7 +10,7 @@ const AddPlayers = (props) => {
         <div className="player-container">
             <h2>Team players Information</h2>
             <h4>Current players: {addPlayer.length}</h4>
-            <h4>Total Budget: {totalBudget}</h4>
+            <h4>Total Budget: ${totalBudget}</h4>
             <div>
                 {
                     addPlayer.map(playerInfo => <AfterAdded playerInfo={playerInfo} key={playerInfo.id}></AfterAdded>)

@@ -7,7 +7,7 @@ const AfterAdded = (props) => {
     return (
         <div className="style">
             <h5>Name: {name}</h5>
-            <h5>Salary: {salary}</h5>
+            <h5>Salary: ${salary}</h5>
         </div>
     );
 };
