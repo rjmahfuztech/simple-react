@@ -1,0 +1,11 @@
+.players-container{
+    display: flex;
+}
+.players-style{
+    width: 60%;
+    border-right: 1px solid darkgray;
+}
+.players-style h2{
+    background-color: lightgoldenrodyellow;
+    padding: 20px 10px;
+}

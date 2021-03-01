@@ -1,0 +1,7 @@
+.card-style{
+    max-width: 540px;
+    border-radius: 10px !important;
+}
+.card-style img {
+    border-radius: 10px;
+}

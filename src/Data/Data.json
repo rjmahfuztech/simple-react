@@ -1,0 +1,145 @@
+[{
+    "id": 1,
+    "name": "Emiliano Martínez",
+    "current_club": "Aston Villa",
+    "position": "Goalkeeper",
+    "date_of_birth_and_age": "02.09.1992 (28)",
+    "citizenship": "Argentina",
+    "salary": "2204",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/111873-1547721671.jpg?lm=1"
+  }, {
+    "id": 2,
+    "name": "Lucas Alario",
+    "current_club": "Bayer 04 Leverkusen",
+    "position": "Centre-Forward",
+    "date_of_birth_and_age": "08.10.1992 (28)",
+    "citizenship": "Argentina",
+    "salary": "2413",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/193782-1611088350.png?lm=1"
+  }, {
+    "id": 3,
+    "name": "Lautaro Martínez",
+    "current_club": "Inter Milan",
+    "position": "Centre-Forward",
+    "date_of_birth_and_age": "22.08.1997 (23)",
+    "citizenship": "Argentina",
+    "salary": "2187",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/406625-1535015019.jpg?lm=1"
+  }, {
+    "id": 4,
+    "name": "Papu Gómez",
+    "current_club": "Sevilla FC",
+    "position": "Second Striker",
+    "date_of_birth_and_age": "15.02.1988 (33)",
+    "citizenship": "Argentina",
+    "salary": "1985",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/20005-1596116251.jpg?lm=1"
+  }, {
+    "id": 5,
+    "name": "Joaquín Correa",
+    "current_club": "SS Lazio",
+    "position": "Second Striker",
+    "date_of_birth_and_age": "13.08.1994 (26)",
+    "citizenship": "Argentina",
+    "salary": "2379",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/227081-1594716192.jpg?lm=1"
+  }, {
+    "id": 6,
+    "name": "Ángel Di María",
+    "current_club": "Paris Saint-Germain",
+    "position": "Right Winger",
+    "date_of_birth_and_age": "14.02.1988 (33)",
+    "citizenship": "Argentina",
+    "salary": "1616",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/45320-1602849270.jpg?lm=1"
+  }, {
+    "id": 7,
+    "name": "Lionel Messi",
+    "current_club": "FC Barcelona",
+    "position": "Right Winger",
+    "date_of_birth_and_age": "24.06.1987 (33)",
+    "citizenship": "Argentina",
+    "salary": "1820",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/28003-1604164452.png?lm=1"
+  }, {
+    "id": 8,
+    "name": "Nicolás González",
+    "current_club": "VfB Stuttgart",
+    "position": "Left Winger",
+    "date_of_birth_and_age": "06.04.1998 (22)",
+    "citizenship": "Argentina",
+    "salary": "1620",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/486031-1599992703.jpg?lm=1"
+  }, {
+    "id": 9,
+    "name": "Lucas Ocampos",
+    "current_club": "Sevilla FC",
+    "position": "Left Winger",
+    "date_of_birth_and_age": "11.07.1994 (26)",
+    "citizenship": "Argentina",
+    "salary": "1736",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/189441-1448351244.jpg?lm=1"
+  }, {
+    "id": 10,
+    "name": "Nicolás Domínguez",
+    "current_club": "Bologna FC 1909",
+    "position": "Central Midfield",
+    "date_of_birth_and_age": "28.06.1998 (22)",
+    "citizenship": "Argentina",
+    "salary": "2663",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/497291-1578042774.jpg?lm=1"
+  }, {
+    "id": 11,
+    "name": "Giovani Lo Celso",
+    "current_club": "Tottenham Hotspur",
+    "position": "Central Midfield",
+    "date_of_birth_and_age": "09.04.1996 (24)",
+    "citizenship": "Argentina",
+    "salary": "2435",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/348795-1591195792.jpg?lm=1"
+  }, {
+    "id": 12,
+    "name": "Rodrigo de Paul",
+    "current_club": "Udinese Calcio",
+    "position": "Central Midfield",
+    "date_of_birth_and_age": "24.05.1994 (26)",
+    "citizenship": "Argentina",
+    "salary": "2026",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/255901-1541160955.jpg?lm=1"
+  }, {
+    "id": 13,
+    "name": "Guido Rodríguez",
+    "current_club": "Real Betis Balompié",
+    "position": "Defensive Midfield",
+    "date_of_birth_and_age": "12.04.1994 (26)",
+    "citizenship": "Argentina",
+    "salary": "2203",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/342385-1565164757.png?lm=1"
+  }, {
+    "id": 14,
+    "name": "Leandro Paredes",
+    "current_club": "Paris Saint-Germain",
+    "position": "Defensive Midfield",
+    "date_of_birth_and_age": "Defensive Midfield",
+    "citizenship": "Argentina",
+    "salary": "1529",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/166237-1602848169.jpg?lm=1"
+  }, {
+    "id": 15,
+    "name": "Gonzalo Montiel",
+    "current_club": "Club Atlético River Plate",
+    "position": "Right-Back",
+    "date_of_birth_and_age": "01.01.1997 (24)",
+    "citizenship": "Argentina",
+    "salary": "2300",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/402733-1540376006.jpg?lm=1"
+  }, {
+    "id": 16,
+    "name": "Nicolás Tagliafico",
+    "current_club": "Ajax Amsterdam",
+    "position": "Left-Back",
+    "date_of_birth_and_age": "31.08.1992 (28)",
+    "citizenship": "Argentina",
+    "salary": "1940",
+    "image": "https://img.a.transfermarkt.technology/portrait/header/131225-1513245039.jpg?lm=1"
+  }]
