@@ -2,6 +2,7 @@ import React from 'react';
 import './Header.css';
 import logo from './Logo/logo.png'
 const Header = () => {
+    
     return (
         <div className = "header-style justify-content-center align-items-center">
             <div>

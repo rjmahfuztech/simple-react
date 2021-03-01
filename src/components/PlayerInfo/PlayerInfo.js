@@ -2,10 +2,11 @@ import React from 'react';
 import './PlayerInfo.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPlus } from '@fortawesome/free-solid-svg-icons';
+
 const PlayerInfo = (props) => {
     const { image, name, citizenship, current_club, position, salary, date_of_birth_and_age } = props.playerDetails;
     const handleAddPlayers = props.handleAddPlayers;
-    
+
     return (
         <div className="card mb-3 card-style">
             <div className="row g-0">

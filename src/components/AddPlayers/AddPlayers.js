@@ -1,6 +1,7 @@
 import React from 'react';
 import AfterAdded from '../AfterAddedPlayer/AfterAdded';
 import './AddPlayers.css';
+
 const AddPlayers = (props) => {
     const addPlayer = props.addPlayer;
     const totalBudget = addPlayer.reduce((total, player) => total + Number(player.salary), 0);
